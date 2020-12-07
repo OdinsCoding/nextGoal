@@ -23,7 +23,8 @@
   list-style-type: none;
   transition: 0.25s;
   float: left;
-  padding: 9px;
+  padding: 8px;
+  font-size: 20px;
 }
 
 #navlist a {
@@ -66,7 +67,7 @@ nav {
 #dashlogo {
   max-width: 45%;
   height: auto;
-  margin-left: 10px;`
+  margin-left: 10px;
 }
 
 #userpic {
@@ -78,6 +79,15 @@ nav {
 
 #userpicimg {
   transform: translateY(40%);
+}
+
+#feedbox-left {
+  margin-left: 2vh;
+  margin-top: 2vh;
+  width: 35vh;
+  height: 85vh;
+  background: transparent;
+  border: 1px solid black;
 }
 
 /* Test Content */
