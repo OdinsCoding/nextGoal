@@ -8,7 +8,7 @@ body {
 #navbar {
   margin-left: auto;
   margin-right: auto;
-  width: 335px;
+  width: 30vw;
   transform: translateY(40%);
   overflow: hidden;
 }
@@ -19,8 +19,10 @@ body {
   display: flex;
   -webkit-align-items: center;
   -ms-flex-align: center;
+  flex-direction: row;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
+  /* justify-content: space-between; */
   margin: 0;
   padding: 0;
   text-align: center;
@@ -29,12 +31,14 @@ body {
   list-style-type: none;
   transition: 0.25s;
   float: left;
-  padding: 8px;
+  /* padding: 8px; */
   font-size: 20px;
+  margin-right: 5%;
 }
 
 #navlist a {
   display: inline-block;
+  margin-bottom: 10%;
 }
 
 #navlist a:hover {
@@ -51,7 +55,8 @@ body {
   height: 18px;
   width: 1px;
   border-left: 1px solid #686f7a;
-  margin: 0 24px 0 10;
+  /* margin: 0 24px 0 10; */
+  margin-right: 5%;
   min-height: auto;
   min-width: auto;
 }
