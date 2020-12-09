@@ -142,9 +142,9 @@ nav {
 }
 
 #feedbox-mid {
-  margin-top: 20vh;
-  width: 600px;
-  height: 600px;
+  margin-top: 15vh;
+  width: 35%;
+  height: 35vw;
   background: transparent;
   border: 1px solid black;
   border-radius: 1%;
