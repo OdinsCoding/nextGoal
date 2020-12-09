@@ -37,7 +37,7 @@ body {
   transition: 0.25s;
   float: left;
   /* padding: 8px; */
-  font-size: 150%;
+  font-size: 1.3vw;
   margin-right: 5%;
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 700;
@@ -80,7 +80,7 @@ nav {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  max-width: 98%;
+  max-width: 97vw;
 }
 
 #topbar {
@@ -88,7 +88,7 @@ nav {
 }
 
 #dashlogo {
-  max-width: 45%;
+  max-width: 8vw;
   height: auto;
   margin-left: 10px;
   animation-name: fadein;
@@ -108,6 +108,7 @@ nav {
 
 #userpicimg {
   transform: translateY(40%);
+  width: 2.5vw;
 }
 
 /* Feed Boxes */
