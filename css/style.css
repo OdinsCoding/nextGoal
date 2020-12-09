@@ -121,7 +121,7 @@ nav {
   border-radius: 1%;
 
   animation-name: moveinleft;
-  animation-duration: 3s;
+  animation-duration: 2s;
   animation-timing-function: ease-out;
 }
 
@@ -134,7 +134,7 @@ nav {
   border: 1px solid black;
   border-radius: 1%;
   animation-name: moveinright;
-  animation-duration: 3s;
+  animation-duration: 2s;
   animation-timing-function: ease-out;
 }
 
@@ -216,7 +216,7 @@ nav {
   50% {
     opacity: 0;
     transform: translateX(-100%);
-    margin-left: -5vw;
+    margin-left: -3vw;
   }
   75% {
     opacity: 1;
@@ -235,7 +235,7 @@ nav {
   50% {
     opacity: 0;
     transform: translateX(100%);
-    margin-right: -5vw;
+    margin-right: -3vw;
   }
   75% {
     opacity: 1;
