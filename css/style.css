@@ -76,6 +76,7 @@ nav {
 /* Logo and User Profile Pic */
 
 #topbar {
+  margin-top: 1vh;
   flex: 1;
   display: flex;
   flex-direction: row;
