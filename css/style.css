@@ -7,6 +7,7 @@ body {
 /* Navigation Bar */
 #navbar {
   margin-left: auto;
+  margin-top: -1vh;
   margin-right: auto;
   width: 30vw;
   transform: translateY(40%);
@@ -89,6 +90,7 @@ nav {
 }
 
 #dashlogo {
+  margin-top: -2vh;
   max-width: 8vw;
   height: auto;
   margin-left: 10px;
@@ -110,6 +112,7 @@ nav {
 #userpicimg {
   transform: translateY(40%);
   width: 2.5vw;
+  margin-top: -1vh;
 }
 
 /* Feed Boxes */
