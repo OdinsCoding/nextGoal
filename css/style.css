@@ -2,6 +2,11 @@
 
 body {
   background-color: #f5f8fa;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+h2 {
+  font-weight: 900;
 }
 
 /* Navigation Bar */
@@ -40,7 +45,6 @@ body {
   /* padding: 8px; */
   font-size: 1.3vw;
   margin-right: 5%;
-  font-family: 'Source Sans Pro', sans-serif;
   font-weight: 700;
 }
 
@@ -175,6 +179,7 @@ nav {
 }
 
 /* Trackers On Left Feedbox */
+
 .parent {
   width: 90%;
   padding: 20px;
@@ -191,8 +196,8 @@ nav {
   margin-bottom: 10px;
 }
 .text {
-  width: 80%;
-  font-size: 20px;
+  width: 70%;
+  font-size: 1vw;
   word-wrap: break-word;
 }
 .circle {
@@ -201,7 +206,7 @@ nav {
   text-align: center;
   height: 40px;
   border-radius: 50%;
-  font-size: 25px;
+  font-size: 1vw;
   display: flex;
   justify-content: center;
   align-items: center;
