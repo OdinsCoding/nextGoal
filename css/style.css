@@ -185,7 +185,8 @@ nav {
   align-items: center;
   justify-content: space-between;
   margin-top: 8%;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
+  padding: 2%;
 }
 .tracker-text {
   width: 70%;
