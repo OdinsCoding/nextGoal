@@ -52,7 +52,7 @@ h2 {
 }
 
 #navlist a:hover {
-  box-shadow: 0em 0.5em 0.5em -0.4em #6eeb83;
+  box-shadow: 0em 0.5em 0.5em -0.4em #43ef98;
 }
 
 .navlink {
@@ -397,7 +397,7 @@ svg circle {
   fill: none;
   stroke-width: 0;
   stroke-linecap: round;
-  stroke: #00ff43;
+  stroke: #43ef98;
 }
 
 /* Left-Feedbox Goals */
