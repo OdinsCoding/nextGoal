@@ -416,6 +416,10 @@ svg circle {
   flex-direction: column;
 }
 
+.goals-row:last-child {
+  margin-bottom: 10px;
+}
+
 #goals-header {
   text-align: center;
   text-decoration: underline;
@@ -426,7 +430,7 @@ svg circle {
 #goals-text {
   text-align: center;
   width: 70%;
-  font-size: 128%;
+  font-size: 100%;
   word-wrap: break-word;
 }
 
